@@ -1,2 +1,2 @@
 FROM docker/whalesay
-ENV AUTHOR="masato"
+ENV AUTHOR="masato_ver.2"
